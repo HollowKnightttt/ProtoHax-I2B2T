@@ -145,7 +145,7 @@ open class MinecraftRelay(private val listener: MinecraftRelayListener,
     companion object {
         private val DEFAULT_PONG = BedrockPong()
             .edition("MCPE")
-            .motd("ProtoHax")
+            .motd("ProtoHax I2B2T Edition")
             .playerCount(0)
             .maximumPlayerCount(20)
             .gameType("Survival")
